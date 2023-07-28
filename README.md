@@ -41,4 +41,5 @@ Run the file: UMV_withDirectFeedthrough.py
 
 ## References:
 [1] S. Gillijns and B. De Moor, “Unbiased minimum-variance input and state estimation for linear discrete-time systems,” Automatica, vol. 43, no. 1, pp. 111–116, Jan. 2007, doi: 10.1016/j.automatica.2006.08.002.
+
 [2] S. Gillijns and B. De Moor, “Unbiased minimum-variance input and state estimation for linear discrete-time systems with direct feedthrough,” Automatica, vol. 43, no. 5, pp. 934–937, May 2007, doi: 10.1016/j.automatica.2006.11.016.
